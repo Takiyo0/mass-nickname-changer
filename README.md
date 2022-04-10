@@ -12,10 +12,10 @@ Is a discord bot that massively change your member's username **SAFELY**. It has
 
 ## Screenshots
 ### Massive change
-![massive.gif](https://safe.chilledchino.me/cgi2vhntpe2i.gif)
+![DiscordCanary_mCg76M85g6](https://user-images.githubusercontent.com/60313514/162622625-cd7adc0e-8c00-4246-ad76-adc22d3e7559.gif)
 
 ### Massive clear
-![massive-clear.gif](https://safe.chilledchino.me/qvj7m91hqqcx.gif)
+![DiscordCanary_gyRApDyGyx](https://user-images.githubusercontent.com/60313514/162622664-35965767-9752-4ded-9508-b02606117230.gif)
 
 ### Massive reset
-![massive-reset.gif](https://safe.chilledchino.me/925ggu55nlbe.gif)
+![DiscordCanary_6E6Bck57UG](https://user-images.githubusercontent.com/60313514/162622696-81cdb6c3-0ca3-4b3a-b4f5-7023b4186a8a.gif)

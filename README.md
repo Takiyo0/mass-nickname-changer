@@ -6,7 +6,7 @@ Is a discord bot that massively change your member's username **SAFELY**. It has
 1. `npm i`
 2. Rename `config.json.example` to `config.json` and fill `config.json` with required data
 3. `npx tsc index.ts --resolveJsonModule --outDir dist`
-4. `node /dist/index`
+4. `node dist/index`
 5. `<prefix>start 💀 😎`
 
 
